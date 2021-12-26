@@ -1,5 +1,5 @@
 # Guasto 2
-In questa pagina sono riportati file, documenti e link necessari al manutentore per eliminare il guasto 1
+In questa pagina sono riportati file, documenti e link necessari al manutentore per eliminare il guasto 2
 
 Sono inoltre riportati dei videotutorials per orientare al meglio le attività necessarie al ripristino del regolare funzionamento della macchina
 
